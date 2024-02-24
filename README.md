@@ -11,6 +11,7 @@
 
 <div style="display: inline_block"><br/>
    <img align="center"  alt="htm" src=https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white/>
+   <img align="center"  alt="htm" src=https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white></a>
    <img align="center"  alt="htm" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
    <img align="center"  alt="htm" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
    <img align="center"  alt="htm" src=https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white></a>
